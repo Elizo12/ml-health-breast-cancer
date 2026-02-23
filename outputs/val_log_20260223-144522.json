@@ -1,0 +1,8 @@
+{
+  "timestamp": "20260223-144522",
+  "seed": 42,
+  "C": 1.0,
+  "val_auroc": 0.9979360165118679,
+  "val_f1": 0.9824561403508771,
+  "checkpoint": "../outputs/logreg_C1.0_seed42_20260223-144522.joblib"
+}
